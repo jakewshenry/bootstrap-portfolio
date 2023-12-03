@@ -38,6 +38,12 @@ GitHub Pages: https://coding-boot-camp.github.io/full-stack/github/professional-
 
 Bootstrap Cards - https://getbootstrap.com/docs/5.0/components/card/
 
+Royalty-free images - https://unsplash.com/
+
+Linkedin Logo - https://brand.linkedin.com/downloads
+
+GitHub Logo - https://github.com/logos
+
 ## License
 
 This project is licensed under the MIT License.
