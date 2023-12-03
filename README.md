@@ -36,6 +36,8 @@ edX module slides - https://bootcampspot.instructure.com/courses/5076/modules
 
 GitHub Pages: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide (README guidance)
 
+Bootstrap Cards - https://getbootstrap.com/docs/5.0/components/card/
+
 ## License
 
 This project is licensed under the MIT License.
