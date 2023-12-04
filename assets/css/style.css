@@ -123,7 +123,7 @@ h1, h2, h3 , h4, h5, h6 {
     justify-content: center;
   }
   
-  .footer--icons > img {
+  .footer--icons > a > img {
     margin: 5px;
     max-width: 50px;
     height: auto
