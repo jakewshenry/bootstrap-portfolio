@@ -66,23 +66,23 @@ SO THAT I am an attractive candidate for relevant jobs
 
 Link to deployed application - https://jakewshenry.github.io/bootstrap-portfolio/
 
- ![Screenshot of desktop (large screen)](/assets/images/SS1.png)
+ ![Screenshot of desktop (large screen)](./assets/images/SS1.png)
 
- ![Screenshot of desktop (large screen)](/assets/images/SS2.png)
+ ![Screenshot of desktop (large screen)](./assets/images/SS2.png)
 
- ![Screenshot of desktop (large screen)](/assets/images/SS3.png)
+ ![Screenshot of desktop (large screen)](./assets/images/SS3.png)
 
- ![Screenshot of desktop (large screen)](/assets/images/SS4.png)
+ ![Screenshot of desktop (large screen)](./assets/images/SS4.png)
 
- ![Screenshot of mobile view (small screen)](/assets/images/SS5.png)
+ ![Screenshot of mobile view (small screen)](./assets/images/SS5.png)
 
- ![Screenshot of mobile view (small screen)](/assets/images/SS6.png)
+ ![Screenshot of mobile view (small screen)](./assets/images/SS6.png)
 
- ![Screenshot of mobile view (small screen)](/assets/images/SS7.png)
+ ![Screenshot of mobile view (small screen)](./assets/images/SS7.png)
 
- ![Screenshot of mobile view (small screen)](/assets/images/SS8.png)
+ ![Screenshot of mobile view (small screen)](./assets/images/SS8.png)
 
- ![Screenshot of mobile view (small screen)](/assets/images/SS9.png)
+ ![Screenshot of mobile view (small screen)](./assets/images/SS9.png)
 
 ## Credits
 
