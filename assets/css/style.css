@@ -1,147 +1,176 @@
 /* Text */
 h1, h2, h3 , h4, h5, h6 {
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  p {
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  
-  /* Navigation bar */
-  
-  /* General */
-  .customNav {
-    position: fixed;
-    width: 100%;
-    background: url("/assets/images/transparency.png");
-    background-color: transparent !important;
-    background-size: cover;
-    z-index: 10;
-  }
-  .navbar-nav {
-    margin-left: auto;
-    margin-right: 0 !important;
-  }
-  .navbar-brand img {
-    padding-right: 15px;
-    width: 65px;
-  }
-  .nav-item {
-    margin: 0px 15px;
-  }
-  
-  /* Navigation dropdown menu */
-  .dropdown-menu {
-    background: url("/assets/images/transparency.png");
-    background-color: transparent !important;
-    background-size: cover;
-  }
-  .dropdown-item:focus, .dropdown-item:hover {
-      color: #16181b;
-      text-decoration: none;
-      background: black;
-  }
-  
-  /* Navigation links */
-  .customNav a {
-    color: white !important;
-  }
-  .navCTA {
-    font-size: 15px;
-  }
-  
-  /* Jumbotron  */
-  .marbleBackground {
-    background-image: url("/assets/images/marble.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: calc(100vh - 25px);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  /* Jumbotron copy */
-  .jumboCopy {
-    color: rgb(44, 43, 43);
-    text-align: center;
-  }
-  
-  /* Cards */
-  .content {
-    padding: 50px;
-  }
-  .sectionHeading {
-    text-align: center;
-  }
-  .showsNear  {
-    padding: 0px 30px 30px 30px;
-  }
-  .cardContainer {
-    text-align: center;
-    margin-top: 20px;
-  }
-  
-  .cardimages > img {
-    min-width: 200px;
-  }
+  font-family: Arial, Helvetica, sans-serif;
+}
 
-  /* Content */
-  .sideAccent {
-    background: #007bff;
-    width: 15px;
-  }
-  .imageContainer img {
-    width: 250px;
-  }
-  .imageContainer {
-    padding: 50px;
-  }
-  .valueProp {
-    margin-top: 15px;
-    margin-bottom: 15px;
-  }
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
 
-  .card {
-    margin: 0 auto;
-  }
+/* Navigation bar */
 
-  ul {
+/* General styling for the navigation bar */
+.customNav {
+  position: fixed;
+  width: 100%;
+  background: url("/assets/images/transparency.png");
+  background-color: transparent !important;
+  background-size: cover;
+  z-index: 10;
+}
+
+/* Adjustments for the navigation items */
+.navbar-nav {
+  margin-left: auto;
+  margin-right: 0 !important;
+}
+
+/* Styling for the logo in the navigation bar */
+.navbar-brand img {
+  padding-right: 15px;
+  width: 65px;
+}
+
+/* Styling for individual navigation items */
+.nav-item {
+  margin: 0px 15px;
+}
+
+/* Navigation dropdown menu styling */
+.dropdown-menu {
+  background: url("/assets/images/transparency.png");
+  background-color: transparent !important;
+  background-size: cover;
+}
+
+/* Styling for focused/hovered dropdown items */
+.dropdown-item:focus, .dropdown-item:hover {
+  color: #16181b;
+  text-decoration: none;
+  background: black;
+}
+
+/* Styling for navigation links */
+.customNav a {
+  color: white !important;
+}
+
+/* Styling for Call-to-Action button in the navigation bar */
+.navCTA {
+  font-size: 15px;
+}
+
+/* Jumbotron  */
+.marbleBackground {
+  background-image: url("/assets/images/marble.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: calc(100vh - 25px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Jumbotron copy styling */
+.jumboCopy {
+  color: rgb(44, 43, 43);
+  text-align: center;
+}
+
+/* Cards */
+.content {
+  padding: 50px;
+}
+
+/* Styling for section headings */
+.sectionHeading {
+  text-align: center;
+}
+
+/* Padding adjustments for specific section */
+.showsNear  {
+  padding: 0px 30px 30px 30px;
+}
+
+/* Styling for card containers */
+.cardContainer {
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Styling for card images */
+.cardimages > img {
+  min-width: 200px;
+}
+
+/* Content */
+.sideAccent {
+  background: #007bff;
+  width: 15px;
+}
+
+/* Styling for images within containers */
+.imageContainer img {
+  width: 250px;
+}
+
+/* Padding adjustments for specific section */
+.imageContainer {
+  padding: 50px;
+}
+
+/* Margin adjustments for specific section */
+.valueProp {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+/* Styling for individual cards */
+.card {
+  margin: 0 auto;
+}
+
+/* Styling for unordered lists */
+ul {
   list-style: none;
-  }
+}
 
-  footer {
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background: url("/assets/images/transparency.png");
-    color: white;
-    text-align: center;
-    padding: 10px;
-  }
-  
-  .footer--icons {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .footer--icons > a > img {
-    margin: 5px;
-    max-width: 50px;
-    height: auto
-  }
+/* Styling for the footer */
+footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: url("/assets/images/transparency.png");
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
 
-  /* Your existing styles */
+/* Styling for social media icons in the footer */
+.footer--icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Styling for individual social media icons in the footer */
+.footer--icons > a > img {
+  margin: 5px;
+  max-width: 50px;
+  height: auto;
+}
 
 /* Media Query for Larger Screens */
 @media only screen and (min-width: 768px) {
+  /* Adjusting width for Jumbotron copy on larger screens */
   .jumboCopy {
-  width: 70%;
-  min-width: 500px;
-  max-width: 700px;
+      width: 70%;
+      min-width: 500px;
+      max-width: 700px;
   }
 
+  /* Making images within containers take up 100% width on larger screens */
   .imageContainer img {
-    width: 100%;
+      width: 100%;
   }
 }
