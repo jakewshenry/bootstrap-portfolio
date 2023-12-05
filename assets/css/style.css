@@ -81,13 +81,17 @@ h1, h2, h3 , h4, h5, h6 {
     margin-top: 20px;
   }
   
+  .cardimages > img {
+    min-width: 200px;
+  }
+
   /* Content */
   .sideAccent {
     background: #007bff;
     width: 15px;
   }
   .imageContainer img {
-    width: 100%;
+    width: 250px;
   }
   .imageContainer {
     padding: 50px;
@@ -129,11 +133,15 @@ h1, h2, h3 , h4, h5, h6 {
 
   /* Your existing styles */
 
-/* Media Query for Mobile Devices */
+/* Media Query for Larger Screens */
 @media only screen and (min-width: 768px) {
   .jumboCopy {
   width: 70%;
   min-width: 500px;
   max-width: 700px;
+  }
+
+  .imageContainer img {
+    width: 100%;
   }
 }
